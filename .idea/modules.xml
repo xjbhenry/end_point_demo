@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloEndpoints.iml" filepath="$PROJECT_DIR$/HelloEndpoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloEndpoints_android.iml" filepath="$PROJECT_DIR$/HelloEndpoints_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brave_monitor_820_appspot_com-helloworld-v1-20150109185435-java-1.19.1-sources/brave_monitor_820_appspot_com-helloworld-v1-20150109185435-java-1.19.1-sources.iml" filepath="$PROJECT_DIR$/brave_monitor_820_appspot_com-helloworld-v1-20150109185435-java-1.19.1-sources/brave_monitor_820_appspot_com-helloworld-v1-20150109185435-java-1.19.1-sources.iml" />
+    </modules>
+  </component>
+</project>
+
